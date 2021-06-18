@@ -1,0 +1,67 @@
+
+
+body{
+    background-color: whitesmoke;
+}
+.box{
+    margin: 0 45%;
+    width: 320px;
+    border-color: black;
+    //border-width: 20px;
+    border-radius: 4px;
+    background-color: palevioletred;
+    padding: 10px 5px;
+    margin: auto;
+    position: relative;
+    
+    .heading{
+        padding: 5px 0;
+        margin: 0 75px;
+        color: whitesmoke;
+        font-weight: bolder;
+    }
+    
+    #number{
+        margin: 0 43%;
+        padding: 5px;
+        position: relative;
+        color: whitesmoke;
+
+    }
+    
+    .add{
+        margin: 10px 20px;
+        padding: 5px 10px;
+        border-color: whitesmoke;
+        border-style: solid;
+        border-radius: 20%;
+        background-color: palevioletred;
+    }
+    button:hover{
+        background-color: grey;
+    }
+    .dec{
+        margin: 10px 20px;
+        padding: 5px 10px;
+        border-color: whitesmoke;
+        border-style: solid;
+        border-radius: 20%;
+        background-color: palevioletred;
+    }
+
+    .reset{
+        margin: 10px 20px;
+        padding: 5px 10px;
+        border-color: whitesmoke;
+        border-style: solid;
+        border-radius: 20%;
+        background-color: palevioletred;
+    }
+}
+button{
+    cursor: pointer;
+    color: whitesmoke;
+    font-weight: bolder;
+}
+
+

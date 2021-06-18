@@ -1,0 +1,66 @@
+body {
+  background-color: whitesmoke;
+}
+
+.box {
+  margin: 0 45%;
+  width: 320px;
+  border-color: black;
+  border-radius: 4px;
+  background-color: palevioletred;
+  padding: 10px 5px;
+  margin: auto;
+  position: relative;
+}
+
+.box .heading {
+  padding: 5px 0;
+  margin: 0 75px;
+  color: whitesmoke;
+  font-weight: bolder;
+}
+
+.box #number {
+  margin: 0 43%;
+  padding: 5px;
+  position: relative;
+  color: whitesmoke;
+}
+
+.box .add {
+  margin: 10px 20px;
+  padding: 5px 10px;
+  border-color: whitesmoke;
+  border-style: solid;
+  border-radius: 20%;
+  background-color: palevioletred;
+}
+
+.box button:hover {
+  background-color: grey;
+}
+
+.box .dec {
+  margin: 10px 20px;
+  padding: 5px 10px;
+  border-color: whitesmoke;
+  border-style: solid;
+  border-radius: 20%;
+  background-color: palevioletred;
+}
+
+.box .reset {
+  margin: 10px 20px;
+  padding: 5px 10px;
+  border-color: whitesmoke;
+  border-style: solid;
+  border-radius: 20%;
+  background-color: palevioletred;
+}
+
+button {
+  cursor: pointer;
+  color: whitesmoke;
+  font-weight: bolder;
+}
+/*# sourceMappingURL=style.css.map */
